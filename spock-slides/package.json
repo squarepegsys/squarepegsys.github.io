@@ -1,0 +1,15 @@
+{
+  "name": "necode-spock-slides",
+  "version": "1.0.0",
+  "scripts": {
+      "start": "ws"
+  },
+      "dependencies":
+        {
+        "remark":"4.2.0"
+        },
+
+  "devDependencies": {
+    "local-web-server": "^0.5.19"
+  }
+}
